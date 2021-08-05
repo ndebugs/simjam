@@ -1,0 +1,6 @@
+[submodule "simjam-api"]
+	path = simjam-api
+	url = https://github.com/ndebugs/simjam-api.git
+[submodule "simjam-logging"]
+	path = simjam-logging
+	url = https://github.com/ndebugs/simjam-logging.git
